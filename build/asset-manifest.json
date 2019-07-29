@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.68c24f2b.chunk.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.bd668c78.chunk.js",
-    "main.js.map": "/goit-react-hw-01-components/static/js/main.bd668c78.chunk.js.map",
-    "runtime~main.js": "/goit-react-hw-01-components/static/js/runtime~main.681d89f7.js",
-    "runtime~main.js.map": "/goit-react-hw-01-components/static/js/runtime~main.681d89f7.js.map",
-    "static/js/2.8a6893a1.chunk.js": "/goit-react-hw-01-components/static/js/2.8a6893a1.chunk.js",
-    "static/js/2.8a6893a1.chunk.js.map": "/goit-react-hw-01-components/static/js/2.8a6893a1.chunk.js.map",
-    "index.html": "/goit-react-hw-01-components/index.html",
-    "precache-manifest.9ecde1f19b44753a53c121bc8ca72fc9.js": "/goit-react-hw-01-components/precache-manifest.9ecde1f19b44753a53c121bc8ca72fc9.js",
-    "service-worker.js": "/goit-react-hw-01-components/service-worker.js",
-    "static/css/main.68c24f2b.chunk.css.map": "/goit-react-hw-01-components/static/css/main.68c24f2b.chunk.css.map"
+    "main.css": "/goit-react-hw-02-movies/static/css/main.7a38e5b8.chunk.css",
+    "main.js": "/goit-react-hw-02-movies/static/js/main.216e582d.chunk.js",
+    "main.js.map": "/goit-react-hw-02-movies/static/js/main.216e582d.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-02-movies/static/js/runtime~main.4f93631a.js",
+    "runtime~main.js.map": "/goit-react-hw-02-movies/static/js/runtime~main.4f93631a.js.map",
+    "static/js/2.8fa3d35f.chunk.js": "/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js",
+    "static/js/2.8fa3d35f.chunk.js.map": "/goit-react-hw-02-movies/static/js/2.8fa3d35f.chunk.js.map",
+    "index.html": "/goit-react-hw-02-movies/index.html",
+    "precache-manifest.b9d5ec00306f3022fc589c611345ec9a.js": "/goit-react-hw-02-movies/precache-manifest.b9d5ec00306f3022fc589c611345ec9a.js",
+    "service-worker.js": "/goit-react-hw-02-movies/service-worker.js",
+    "static/css/main.7a38e5b8.chunk.css.map": "/goit-react-hw-02-movies/static/css/main.7a38e5b8.chunk.css.map"
   }
 }
